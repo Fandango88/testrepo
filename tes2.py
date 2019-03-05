@@ -1,7 +1,6 @@
 import numpy as np
 a = np.mean([1,2,3])
-b = a +2 
-c = b*2
+a = np.std([1,2,3])
+b = np.random()
 
-
-aaa = 2
+print(a)
